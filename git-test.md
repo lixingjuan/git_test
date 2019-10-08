@@ -14,6 +14,10 @@ git config user.name '李幸娟'
 
 ### 查看git 状态
 ```bash
+git status
+# 有改动了之后.未add查看
+
+
 
 ```
 
