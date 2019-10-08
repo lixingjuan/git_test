@@ -34,6 +34,11 @@ git branch dev
 git checkout dev
 ```
 
+### 操作分支
+
+```bash
+
+```
 ### 查看git 状态
 ```bash
 git status
